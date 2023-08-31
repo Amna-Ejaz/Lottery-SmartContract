@@ -1,1 +1,1 @@
-# Lottery-SmartContract
+# Lottery-Smart-Contract-using-Solidity-on-RemixIDE
